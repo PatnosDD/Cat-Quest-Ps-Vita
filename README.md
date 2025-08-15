@@ -7,6 +7,7 @@ This repository contains the necessary patches to create fully functional files 
 ### Known Issues  
 
 - Lower FPS throughout the gameplay(20-30fps)
+- Some language fonts are currently not supported
 
 **If you want to support the project, you can leave a tip on one of those websites:**
 
